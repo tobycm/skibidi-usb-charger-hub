@@ -8,7 +8,7 @@
 		(title "Skibidi USB Charging Hub")
 		(date "2026-03-15")
 		(rev "v1")
-		(company "Toby Cm's Lab")
+		(company "Toby Cm's Lab x Hack Club")
 	)
 	(lib_symbols
 		(symbol "Mechanical:MountingHole"
