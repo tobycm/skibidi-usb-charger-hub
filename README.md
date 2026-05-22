@@ -3,9 +3,12 @@
 # skibidi-usb-charger-hub
 
 a very skibidi usb charger hub. powered using an old PC PSU with 12V and 5V, providing:
+
 - 4 x PD USB C: 9V 3A
 - 2 x USB C: 5V 3A
 - 4 x USB A: 5V 2.2A
+
+![zine](zine/Skibidi%20USB%20Charger%20Hub%20Zine@2x.png)
 
 ## PSU
 
