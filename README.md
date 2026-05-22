@@ -19,6 +19,8 @@ a very skibidi usb charger hub. powered using an old PC PSU with 12V and 5V, pro
 
 ## PCB Renders
 
+[OnShape model](https://cad.onshape.com/documents/76d0eacda952f7a16601ad60/w/6632ab11f69bcce9ea203d2d/e/41ef5674a500edea83bbca98?renderMode=0&uiState=6a0fff0a803d90545f2c49f1)
+
 ![front 3d pcb](assets/front_3d.png)
 
 ![back 3d pcb](assets/back_3d.png)

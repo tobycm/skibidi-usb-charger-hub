@@ -1,29 +1,29 @@
-Description,Quantity,Part #,Unit price,Extended Price USD
-100n『 』Unpolarized capacitor『 』SMD_2terminal_chip_molded,11,CL10B104KB8NNNC,$0.006,0.33
-1n『 』Unpolarized capacitor『 』SMD_2terminal_chip_molded,4,CL10B102KB8NNNC,$0.008,0.16
-100u『 』Polarized capacitor『 』capacitor/SMD/elec_round_polarized,4,R6RL035101C077MH0XX,$0.278,5.56
-1u『 』Unpolarized capacitor『 』SMD_2terminal_chip_molded,8,CL10B105KA8NNNC,$0.013,0.52
-220u『 』Polarized capacitor『 』capacitor/SMD/elec_round_polarized,4,R6RL025221C077MH0XX,$0.278,5.56
-22u『 』Unpolarized capacitor『 』SMD_2terminal_chip_molded,4,CL21A226MAYNNNE,$0.063,1.26
-"SMAJ5.0A『 』400W unidirectional Transient Voltage Suppressor, 5.0Vr, SMA(DO-214AC)",1,SMAJ5.0A,$0.046,0.23
-"SMAJ15A『 』400W unidirectional Transient Voltage Suppressor, 15.0Vr, SMA(DO-214AC)",1,SMAJ15A,$0.081,0.41
-Fuse『 』Fuse,2,XF-505P,$0.136,1.36
-USB_C_Receptacle_USB2.0_14P『 』USB 2.0-only 14P Type-C Receptacle connector,6,TYPE-C 16PIN 2MD(073),$0.148,4.44
-"Conn_02x01『 』Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)『 』connector/pin_header_socket",4,,,0.00
-22u『 』Inductor,4,DEP1410-220,$1.855,37.10
-5.1k『 』Resistor『 』SMD_2terminal_chip_molded,4,FRC0603F5101TS,$0.003,0.06
-2『 』Resistor『 』SMD_2terminal_chip_molded,4,FRC0603J2R0 TS,$0.003,0.06
-IP6518,4,IP6518,$1.769,35.38
-"USBLC6-4SC6『 』Very low capacitance ESD protection diode, 4 data-line, SOT-23-6『 』package/gullwing",4,USBLC6-4SC6-ES,$0.028,0.56
-NDP5102SE,3,NDP5102SE,$0.069,1.04
-AF SS-JB17.6,2,AF SS-JB17.6,$0.256,2.56
-,,,,
-4 Layer PCB,5,PCB,19.11,95.55
-,,,,
-PCBWay Shipping,1,,43,43
-,,,,
-150pcs White Nylon Hex Screw M2 M2.5 M3 M4 M5 Bolt Nut Standoff Spacer Kit with Plastic Box Corrosion Resistant ,0,1005002059852181,4.07,0
-,,,,
-Aliexpress Shipping,0,Aliexpress Shipping,2.04,0
-,,,,
-,,Total:,,235.13
+Description,Quantity,Part #,Unit price,Extended Price USD,Link
+100n『 』Unpolarized capacitor『 』SMD_2terminal_chip_molded,11,CL10B104KB8NNNC,$0.006,0.33,
+1n『 』Unpolarized capacitor『 』SMD_2terminal_chip_molded,4,CL10B102KB8NNNC,$0.008,0.16,
+100u『 』Polarized capacitor『 』capacitor/SMD/elec_round_polarized,4,R6RL035101C077MH0XX,$0.278,5.56,
+1u『 』Unpolarized capacitor『 』SMD_2terminal_chip_molded,8,CL10B105KA8NNNC,$0.013,0.52,
+220u『 』Polarized capacitor『 』capacitor/SMD/elec_round_polarized,4,R6RL025221C077MH0XX,$0.278,5.56,
+22u『 』Unpolarized capacitor『 』SMD_2terminal_chip_molded,4,CL21A226MAYNNNE,$0.063,1.26,
+"SMAJ5.0A『 』400W unidirectional Transient Voltage Suppressor, 5.0Vr, SMA(DO-214AC)",1,SMAJ5.0A,$0.046,0.23,
+"SMAJ15A『 』400W unidirectional Transient Voltage Suppressor, 15.0Vr, SMA(DO-214AC)",1,SMAJ15A,$0.081,0.41,
+Fuse『 』Fuse,2,XF-505P,$0.136,1.36,
+USB_C_Receptacle_USB2.0_14P『 』USB 2.0-only 14P Type-C Receptacle connector,6,TYPE-C 16PIN 2MD(073),$0.148,4.44,
+"Conn_02x01『 』Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)『 』connector/pin_header_socket",4,,,0,
+22u『 』Inductor,4,DEP1410-220,$1.855,37.1,
+5.1k『 』Resistor『 』SMD_2terminal_chip_molded,4,FRC0603F5101TS,$0.003,0.06,
+2『 』Resistor『 』SMD_2terminal_chip_molded,4,FRC0603J2R0 TS,$0.003,0.06,
+IP6518,4,IP6518,$1.769,35.38,
+"USBLC6-4SC6『 』Very low capacitance ESD protection diode, 4 data-line, SOT-23-6『 』package/gullwing",4,USBLC6-4SC6-ES,$0.028,0.56,
+NDP5102SE,3,NDP5102SE,$0.069,1.04,
+AF SS-JB17.6,2,AF SS-JB17.6,$0.256,2.56,
+,,,,,
+4 Layer PCB,5,PCB,19.11,95.55,
+,,,,,
+PCBWay Shipping,1,,43,43,https://www.pcbway.com/
+,,,,,
+150pcs White Nylon Hex Screw M2 M2.5 M3 M4 M5 Bolt Nut Standoff Spacer Kit with Plastic Box Corrosion Resistant ,0,1005002059852181,4.07,0,
+,,,,,
+Aliexpress Shipping,0,Aliexpress Shipping,2.04,0,
+,,,,,
+,,Total:,,235.13,
