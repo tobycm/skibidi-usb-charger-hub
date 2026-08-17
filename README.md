@@ -10,7 +10,7 @@ a very skibidi usb charger hub. powered using an old PC PSU with 12V and 5V, pro
 
 <hr>
 <p align="center">
-    <img src="./assets/sponsor.png" width="150"><br>
+    <img src="./assets/sponsor.png" height="50"><br>
     <strong>This project was partly sponsored by PCBWay and Hack Club</strong>
     <p><a href="https://www.pcbway.com/">PCBWay</a> is a PCB manufacturing company that provides high-quality PCB services. I am happy to collaborate with them to bring this project to life. My experience with PCBWay:</p>
     <ul>
