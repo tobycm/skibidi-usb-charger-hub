@@ -10,7 +10,7 @@ a very skibidi usb charger hub. powered using an old PC PSU with 12V and 5V, pro
 
 <hr>
 <p align="center">
-    <img src="./assets/sponsor.png" width="300"><br>
+    <img src="./assets/sponsor.png" width="150"><br>
     <strong>This project was partly sponsored by PCBWay and Hack Club</strong>
     <p><a href="https://www.pcbway.com/">PCBWay</a> is a PCB manufacturing company that provides high-quality PCB services. I am happy to collaborate with them to bring this project to life. My experience with PCBWay:</p>
     <ul>
@@ -21,7 +21,18 @@ a very skibidi usb charger hub. powered using an old PC PSU with 12V and 5V, pro
     </ul>
     <details>
         <summary>Pictures:</summary>
-        <p>This is the hidden content that will be revealed.</p>
+        <img src="./assets/photos/photo_1.jpg" width="150">
+        <img src="./assets/photos/photo_2.jpg" width="150">
+        <img src="./assets/photos/photo_3.jpg" width="150">
+        <img src="./assets/photos/photo_4.jpg" width="150">
+        <img src="./assets/photos/photo_5.jpg" width="150">
+        <img src="./assets/photos/photo_6.jpg" width="150">
+        <img src="./assets/photos/photo_7.jpg" width="150">
+        <img src="./assets/photos/photo_8.jpg" width="150">
+        <img src="./assets/photos/photo_9.jpg" width="150">
+        <img src="./assets/photos/photo_10.jpg" width="150">
+        <img src="./assets/photos/photo_11.jpg" width="150">
+        <img src="./assets/photos/photo_12.jpg" width="150">
     </details>
     <p>---------</p>
     <p><a href="https://hackclub.com/">Hack Club</a> is the world's largest nonprofit movement of teenagers making cool projects. This project was partly funded by the <a href="https://fallout.hackclub.com/">Fallout</a> program from Hack Club!</p>
